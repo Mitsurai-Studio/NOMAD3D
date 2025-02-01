@@ -5,9 +5,7 @@ Ender-3 Pro Based Cantilever-style Printer Mod
 
 # Introduction
 
-What if 
-
-we could create a 3D printer that rivals Bambu Lab—not just in performance but in accessibility, openness, and innovation? To achieve this, we need to go beyond just developing hardware. We must rethink the entire user experience, ensuring that our printer is not only powerful but also intuitive, reliable, and customizable. 
+What if we could create a 3D printer that rivals Bambu Lab—not just in performance but in accessibility, openness, and innovation? To achieve this, we need to go beyond just developing hardware. We must rethink the entire user experience, ensuring that our printer is not only powerful but also intuitive, reliable, and customizable. 
 
 This means:
 
