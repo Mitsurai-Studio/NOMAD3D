@@ -23,7 +23,8 @@ This isn't just about making another printer—it’s about redefining what open
 
 While this could go way beyond the scope of this project, Project NOMAD3D starts with a simple step: 
 
-**Creating a Open-Source Equivalent to Existing Consumer-Grade 3D printers. and in this case, specifically, a cantilever-style 3D printer.**
+**Creating a Open-Source Equivalent to Existing Consumer-Grade 3D printers. 
+and in this case, specifically, a cantilever-style 3D printer.**
 
 
 
