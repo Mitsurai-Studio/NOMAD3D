@@ -19,9 +19,13 @@ This means:
 
 This isn't just about making another printer—it’s about redefining what open-source can achieve. 
 
+
+
 While this could go way beyond the scope of this project, Project NOMAD3D starts with a simple step: 
 
 Creating a Open-Source Equivalent to Existing Consumer-Grade 3D printers. and in this case, specifically, a cantilever-style 3D printer.  
+
+
 
 This project utilize Ender 3 / Ender 3 Pro as a base and turning it into a cantilever-style 3D Printer. NOMAD conversion mod are more compact and maintains the build volume of the original Ender 3. Being based on Ender 3 / Pro, it has a few advantages: 
 - Affordable – Ender 3 / Pro are widely available on the second hand market and also pretty affordable around the world.
