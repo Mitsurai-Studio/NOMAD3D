@@ -9,11 +9,11 @@ What if we could create a 3D printer that rivals Bambu Lab—not just in perform
 
 This means:
 
-- High-speed, high-quality printing – Competing with Bambu Lab means optimizing motion systems, cooling, and extrusion for speed without sacrificing quality.
-- Seamless user experience – From automatic calibration to intuitive software, the project needs to be user-friendly and make high-end 3D printing accessible.
-- Strong community collaboration – True open-source success comes from engaging the community, leveraging collective knowledge, and ensuring modularity for easy upgrades.
-- Sustainability and repairability – Unlike proprietary systems, the design should prioritize easy repairs, affordable parts, and long-term support.
-- Affordability – THe goal is to be able to create an alternative version that is similar in price, if not cheaper than the commercial equivalent. 
+- **High-speed, high-quality printing** – Competing with Bambu Lab means optimizing motion systems, cooling, and extrusion for speed without sacrificing quality.
+- **Seamless user experience** – From automatic calibration to intuitive software, the project needs to be user-friendly and make high-end 3D printing accessible.
+- **Strong community collaboration** – True open-source success comes from engaging the community, leveraging collective knowledge, and ensuring modularity for easy upgrades.
+- **Repairability** – Unlike proprietary systems, the design should prioritize easy repairs, affordable parts, and long-term support.
+- **Affordability** – THe goal is to be able to create an alternative version that is similar in price, if not cheaper than the commercial equivalent. 
 
 This isn't just about making another printer—it’s about redefining what open-source can achieve. 
 
@@ -55,7 +55,7 @@ This is on stock Marlin Firmware, and currently at the speed of well-tuned Ender
 
 ## Community Collaboration
 
-## Sustainability & Repairability
+## Repairability
 The project needs to be based on the existing Ender 3 / Ender 3 Pro spare parts, and not permanently changing any of the parts. The user needs to be able to reverse the build into a fully working Ender 3 / Pro. 
 
 ## Affordability
