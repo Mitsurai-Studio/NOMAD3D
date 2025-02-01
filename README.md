@@ -17,7 +17,9 @@ This means:
 - Sustainability and repairability – Unlike proprietary systems, the design should prioritize easy repairs, affordable parts, and long-term support.
 - Affordability – THe goal is to be able to create an alternative version that is similar in price, if not cheaper than the commercial equivalent. 
 
-This isn't just about making another printer—it’s about redefining what open-source can achieve. While this could go way beyond the scope of this project, Project NOMAD3D starts with a simple step: 
+This isn't just about making another printer—it’s about redefining what open-source can achieve. 
+
+While this could go way beyond the scope of this project, Project NOMAD3D starts with a simple step: 
 
 Creating a Open-Source Equivalent to Existing Consumer-Grade 3D printers. and in this case, specifically, a cantilever-style 3D printer.  
 
@@ -46,9 +48,9 @@ While it eventually will turn into Klipper for such speed, Marlin firmware also 
 
 This is on stock Marlin Firmware, and currently at the speed of well-tuned Ender 3 / Pro. Updates will be going soon. 
 
-##Seamless user experience
+## Seamless user experience
 
-##Community Collaboration
+## Community Collaboration
 
 ## Sustainability & Repairability
 The project needs to be based on the existing Ender 3 / Ender 3 Pro spare parts, and not permanently changing any of the parts. The user needs to be able to reverse the build into a fully working Ender 3 / Pro. 
